@@ -25,7 +25,7 @@
  
 </div>
 
-
+![Snake animation](https://github.com/ubyss/ubyss/blob/main/.github/workflows/cobra.svg)
 
 
 <!-- 
