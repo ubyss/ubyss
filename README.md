@@ -25,6 +25,12 @@
  
 </div>
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/ubyss/ubyss/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 
 <!-- 
 
