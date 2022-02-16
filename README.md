@@ -5,7 +5,7 @@
   <a href="https://github.com/ubyss">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ubyss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubyss&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-	  </ a>
+          </ a>
 </div>
  
  <div style="display: inline_block"><br>
@@ -16,26 +16,14 @@
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/AdeptMinorBanteng-size_restricted.gif">
 </div>
- 
 
-	
   ##
-	
 <div> 
-		<a href = "mailto:thiagojrtb@gmail.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thiagojrtb@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-vin%C3%ADcius-1813521b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href="https://github.com/ubyss"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+        <a href = "mailto:thiagojrtb@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/thiago-vin%C3%ADcius-1813521b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
