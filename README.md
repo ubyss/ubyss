@@ -1,37 +1,58 @@
-### 👋 Olá. Bem vindo ao meu perfil
- <hr>
- 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,nest,github,materialui,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord" />
-</a>
-  <br />
+<h1 align="center">Full Stack Developer</h1>
 
-  </div>
+<br/>
 
-  ##
-<div> 
-        <a href="https://github.com/ubyss"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-        <a href = "mailto:thiagojrtb@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/thiago-vin%C3%ADcius-1813521b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,nest,postgres,mongodb,tailwind,sass,git,github,vscode" />
+  </a>
+</p>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/ubyss/ubyss/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+<br/>
 
+## About
 
-<!-- 
+- Fullstack developer focused on React, TypeScript and Node.js  
+- Experience building scalable and maintainable systems  
+- Strong attention to performance, UX and code quality  
+- Comfortable working across frontend and backend  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+<br/>
+
+## Stack
+
+**Frontend**  
+React · Next.js · TypeScript · Tailwind · Sass  
+
+**Backend**  
+Node.js · NestJS  
+
+**Database**  
+PostgreSQL · MongoDB  
+
+**Tools**  
+Git · Vercel · Postman · VSCode  
+
+<br/>
+
+## Contact
+
+<p>
+  <a href="https://github.com/ubyss">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:thiagojrtb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-vin%C3%ADcius-1813521b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+## Activity
+
+<p align="center">
+  <img src="https://github.com/ubyss/ubyss/blob/output/github-contribution-grid-snake.svg" />
+</p>
