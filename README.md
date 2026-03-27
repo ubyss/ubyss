@@ -1,25 +1,10 @@
 <h1 align="center">Full Stack Developer</h1>
 
-<br/>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,nest,postgres,mongodb,tailwind,sass,git,github,vscode" />
   </a>
 </p>
-
-<br/>
-
-## About
-
-- Fullstack developer focused on React, TypeScript and Node.js  
-- Experience building scalable and maintainable systems  
-- Strong attention to performance, UX and code quality  
-- Comfortable working across frontend and backend  
-
-<br/>
-
-## Stack
 
 **Frontend**  
 React · Next.js · TypeScript · Tailwind · Sass  
